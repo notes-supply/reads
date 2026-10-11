@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Reads</title>
+    <link>https://portfolio.notes.supply/reading</link>
+    <description>Reading history</description>
+    <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flow and Similar Attentional States in Autism and ADHD: A Scoping Review of Similarities and Differences.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/42821578/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/42821578/</guid>
+      <pubDate>Sun, 11 Oct 2026 10:18:56 +0000</pubDate>
+      <dc:creator>Carleigh Pace-Tonna</dc:creator>
+      <dc:creator>Manahil Murtaza</dc:creator>
+      <dc:creator>Terri Rodak</dc:creator>
+      <dc:creator>Norman Farb</dc:creator>
+      <dc:creator>William Ryan</dc:creator>
+      <dc:creator>Meng-Chuan Lai</dc:creator>
+      <dc:date>2026-10-01</dc:date>
+    </item>
+    <item>
+      <title>Physical Design of UET-RVMCU: A Streamlined Open-Source RISC-V Microcontroller</title>
+      <link>https://arxiv.org/abs/2603.28709v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.28709v1</guid>
+      <pubDate>Sun, 11 Oct 2026 10:18:56 +0000</pubDate>
+      <dc:creator>Azhar, Abdullah</dc:creator>
+      <dc:creator>Kamal, Uneeb</dc:creator>
+      <dc:creator>Ali, Wajid</dc:creator>
+      <dc:creator>Gillani, Saad</dc:creator>
+      <dc:creator>Qazi, Dr Suleman Sami</dc:creator>
+      <dc:date>2026-03-30</dc:date>
+    </item>
+    <item>
+      <title>Beneath the Tokens: A Performance Engineering Study of Multi-Token Prediction in GPU-Accelerated LLM Inference</title>
+      <link>https://arxiv.org/abs/2609.35188v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35188v1</guid>
+      <pubDate>Sun, 11 Oct 2026 10:18:56 +0000</pubDate>
+      <dc:creator>Sah, Suwesh Prasad</dc:creator>
+      <dc:date>2026-09-28</dc:date>
+    </item>
+  </channel>
+</rss>
