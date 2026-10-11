@@ -6,6 +6,14 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing</title>
+      <link>https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</guid>
+      <pubDate>Sun, 11 Oct 2026 16:16:09 +0000</pubDate>
+      <dc:creator>Michael Larabel</dc:creator>
+      <dc:date>2026-10-04</dc:date>
+    </item>
+    <item>
       <title>DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</title>
       <link>https://arxiv.org/abs/2609.19969v1</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.19969v1</guid>
