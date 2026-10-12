@@ -6,6 +6,13 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>There is a smarter way to tax the rich</title>
+      <link>https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe</guid>
+      <pubDate>Mon, 12 Oct 2026 15:24:53 +0000</pubDate>
+      <dc:date>2026-10-12</dc:date>
+    </item>
+    <item>
       <title>NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing</title>
       <link>https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</guid>
