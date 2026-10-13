@@ -6,6 +6,118 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Connectome-driven neural inventory of a complete visual system</title>
+      <link>https://www.nature.com/articles/s41586-025-08746-0</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08746-0</guid>
+      <pubDate>Tue, 13 Oct 2026 10:39:39 +0000</pubDate>
+      <dc:creator>Nern, Aljoscha</dc:creator>
+      <dc:creator>Loesche, Frank</dc:creator>
+      <dc:creator>Takemura, Shin-ya</dc:creator>
+      <dc:creator>Burnett, Laura E.</dc:creator>
+      <dc:creator>Dreher, Marisa</dc:creator>
+      <dc:creator>Gruntman, Eyal</dc:creator>
+      <dc:creator>Hoeller, Judith</dc:creator>
+      <dc:creator>Huang, Gary B.</dc:creator>
+      <dc:creator>Januszewski, Michał</dc:creator>
+      <dc:creator>Klapoetke, Nathan C.</dc:creator>
+      <dc:creator>Koskela, Sanna</dc:creator>
+      <dc:creator>Longden, Kit D.</dc:creator>
+      <dc:creator>Lu, Zhiyuan</dc:creator>
+      <dc:creator>Preibisch, Stephan</dc:creator>
+      <dc:creator>Qiu, Wei</dc:creator>
+      <dc:creator>Rogers, Edward M.</dc:creator>
+      <dc:creator>Seenivasan, Pavithraa</dc:creator>
+      <dc:creator>Zhao, Arthur</dc:creator>
+      <dc:creator>Bogovic, John</dc:creator>
+      <dc:creator>Canino, Brandon S.</dc:creator>
+      <dc:creator>Clements, Jody</dc:creator>
+      <dc:creator>Cook, Michael</dc:creator>
+      <dc:creator>Finley-May, Samantha</dc:creator>
+      <dc:creator>Flynn, Miriam A.</dc:creator>
+      <dc:creator>Hameed, Imran</dc:creator>
+      <dc:creator>Fragniere, Alexandra M. C.</dc:creator>
+      <dc:creator>Hayworth, Kenneth J.</dc:creator>
+      <dc:creator>Hopkins, Gary Patrick</dc:creator>
+      <dc:creator>Hubbard, Philip M.</dc:creator>
+      <dc:creator>Katz, William T.</dc:creator>
+      <dc:creator>Kovalyak, Julie</dc:creator>
+      <dc:creator>Lauchie, Shirley A.</dc:creator>
+      <dc:creator>Leonard, Meghan</dc:creator>
+      <dc:creator>Lohff, Alanna</dc:creator>
+      <dc:creator>Maldonado, Charli A.</dc:creator>
+      <dc:creator>Mooney, Caroline</dc:creator>
+      <dc:creator>Okeoma, Nneoma</dc:creator>
+      <dc:creator>Olbris, Donald J.</dc:creator>
+      <dc:creator>Ordish, Christopher</dc:creator>
+      <dc:creator>Paterson, Tyler</dc:creator>
+      <dc:creator>Phillips, Emily M.</dc:creator>
+      <dc:creator>Pietzsch, Tobias</dc:creator>
+      <dc:creator>Salinas, Jennifer Rivas</dc:creator>
+      <dc:creator>Rivlin, Patricia K.</dc:creator>
+      <dc:creator>Schlegel, Philipp</dc:creator>
+      <dc:creator>Scott, Ashley L.</dc:creator>
+      <dc:creator>Scuderi, Louis A.</dc:creator>
+      <dc:creator>Takemura, Satoko</dc:creator>
+      <dc:creator>Talebi, Iris</dc:creator>
+      <dc:creator>Thomson, Alexander</dc:creator>
+      <dc:creator>Trautman, Eric T.</dc:creator>
+      <dc:creator>Umayam, Lowell</dc:creator>
+      <dc:creator>Walsh, Claire</dc:creator>
+      <dc:creator>Walsh, John J.</dc:creator>
+      <dc:creator>Xu, C. Shan</dc:creator>
+      <dc:creator>Yakal, Emily A.</dc:creator>
+      <dc:creator>Yang, Tansy</dc:creator>
+      <dc:creator>Zhao, Ting</dc:creator>
+      <dc:creator>Funke, Jan</dc:creator>
+      <dc:creator>George, Reed</dc:creator>
+      <dc:creator>Hess, Harald F.</dc:creator>
+      <dc:creator>Jefferis, Gregory S. X. E.</dc:creator>
+      <dc:creator>Knecht, Christopher</dc:creator>
+      <dc:creator>Korff, Wyatt</dc:creator>
+      <dc:creator>Plaza, Stephen M.</dc:creator>
+      <dc:creator>Romani, Sandro</dc:creator>
+      <dc:creator>Saalfeld, Stephan</dc:creator>
+      <dc:creator>Scheffer, Louis K.</dc:creator>
+      <dc:creator>Berg, Stuart</dc:creator>
+      <dc:creator>Rubin, Gerald M.</dc:creator>
+      <dc:creator>Reiser, Michael B.</dc:creator>
+      <dc:date>2025-05</dc:date>
+    </item>
+    <item>
+      <title>Asterinas: A Linux ABI-Compatible, Rust-Based Framekernel OS with a Small and Sound TCB</title>
+      <link>https://arxiv.org/abs/2506.03876v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2506.03876v1</guid>
+      <pubDate>Tue, 13 Oct 2026 10:39:38 +0000</pubDate>
+      <dc:creator>Peng, Yuke</dc:creator>
+      <dc:creator>Tian, Hongliang</dc:creator>
+      <dc:creator>Junyang, Zhang</dc:creator>
+      <dc:creator>Li, Ruihan</dc:creator>
+      <dc:creator>Chen, Chengjun</dc:creator>
+      <dc:creator>Jiang, Jianfeng</dc:creator>
+      <dc:creator>Xian, Jinyi</dc:creator>
+      <dc:creator>Wang, Xiaolin</dc:creator>
+      <dc:creator>Xu, Chenren</dc:creator>
+      <dc:creator>Zhou, Diyu</dc:creator>
+      <dc:creator>Luo, Yingwei</dc:creator>
+      <dc:creator>Yan, Shoumeng</dc:creator>
+      <dc:creator>Zhang, Yinqian</dc:creator>
+      <dc:date>2025-06-04</dc:date>
+    </item>
+    <item>
+      <title>Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs</title>
+      <link>https://arxiv.org/abs/2512.18134v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.18134v1</guid>
+      <pubDate>Tue, 13 Oct 2026 10:39:38 +0000</pubDate>
+      <dc:creator>Soi, Rupanshu</dc:creator>
+      <dc:creator>Yadav, Rohan</dc:creator>
+      <dc:creator>Kjolstad, Fredrik</dc:creator>
+      <dc:creator>Aiken, Alex</dc:creator>
+      <dc:creator>Dehnavi, Maryam Mehri</dc:creator>
+      <dc:creator>Garland, Michael</dc:creator>
+      <dc:creator>Bauer, Michael</dc:creator>
+      <dc:date>2025-12-19</dc:date>
+    </item>
+    <item>
       <title>There is a smarter way to tax the rich</title>
       <link>https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe</link>
       <guid isPermaLink="true">https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe</guid>
