@@ -6,6 +6,254 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog</title>
+      <link>https://www.liquid.ai/blog/lfm2-5-24b-a2b</link>
+      <guid isPermaLink="true">https://www.liquid.ai/blog/lfm2-5-24b-a2b</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:26 +0000</pubDate>
+      <dc:date>2026-10-13</dc:date>
+    </item>
+    <item>
+      <title>Open d1: Edge decision models for text, vision, and audio | Blog</title>
+      <link>https://www.liquid.ai/blog/d1-open</link>
+      <guid isPermaLink="true">https://www.liquid.ai/blog/d1-open</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:26 +0000</pubDate>
+      <dc:date>2026-10-07</dc:date>
+    </item>
+    <item>
+      <title>Gemini 4 Argon Safety &amp; Security Report</title>
+      <link>https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf</link>
+      <guid isPermaLink="true">https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:26 +0000</pubDate>
+      <dc:date>2026-10</dc:date>
+    </item>
+    <item>
+      <title>LFM2.5-VL-DSpark: Accelerating vision-language models on edge and beyond | Blog</title>
+      <link>https://www.liquid.ai/blog/lfm2-5-vl-dspark</link>
+      <guid isPermaLink="true">https://www.liquid.ai/blog/lfm2-5-vl-dspark</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:date>2026-09-24</dc:date>
+    </item>
+    <item>
+      <title>LFM2.5-DSpark: Up to 3.2x Faster Inference from H100 to MacBook | Blog</title>
+      <link>https://www.liquid.ai/blog/lfm2.5-dspark</link>
+      <guid isPermaLink="true">https://www.liquid.ai/blog/lfm2.5-dspark</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:date>2026-08-20</dc:date>
+    </item>
+    <item>
+      <title>DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation</title>
+      <link>https://arxiv.org/abs/2607.05147v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.05147v1</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Cheng, Xin</dc:creator>
+      <dc:creator>Yu, Xingkai</dc:creator>
+      <dc:creator>Shao, Chenze</dc:creator>
+      <dc:creator>Li, Jiashi</dc:creator>
+      <dc:creator>Xiong, Yunfan</dc:creator>
+      <dc:creator>Qian, Yi</dc:creator>
+      <dc:creator>Zhu, Jiaqi</dc:creator>
+      <dc:creator>Ma, Shirong</dc:creator>
+      <dc:creator>Zhang, Xiaokang</dc:creator>
+      <dc:creator>Ye, Jiasheng</dc:creator>
+      <dc:creator>Chen, Qinyu</dc:creator>
+      <dc:creator>Deng, Chengqi</dc:creator>
+      <dc:creator>Yu, Jiping</dc:creator>
+      <dc:creator>Dai, Damai</dc:creator>
+      <dc:creator>Zhang, Zhengyan</dc:creator>
+      <dc:creator>Wei, Yixuan</dc:creator>
+      <dc:creator>Tan, Yixuan</dc:creator>
+      <dc:creator>Yang, Wenkai</dc:creator>
+      <dc:creator>Xu, Runxin</dc:creator>
+      <dc:creator>Wu, Yu</dc:creator>
+      <dc:creator>Xu, Zhean</dc:creator>
+      <dc:creator>Wang, Xuanyu</dc:creator>
+      <dc:creator>Chen, Muyang</dc:creator>
+      <dc:creator>Tian, Rui</dc:creator>
+      <dc:creator>Bi, Xiao</dc:creator>
+      <dc:creator>Hao, Zhewen</dc:creator>
+      <dc:creator>Chen, Shaoyuan</dc:creator>
+      <dc:creator>Cao, Huanqi</dc:creator>
+      <dc:creator>Zhang, Wentao</dc:creator>
+      <dc:creator>Xu, Anyi</dc:creator>
+      <dc:creator>Zhang, Huishuai</dc:creator>
+      <dc:creator>Zhao, Dongyan</dc:creator>
+      <dc:creator>Liang, Wenfeng</dc:creator>
+      <dc:date>2026-07-06</dc:date>
+    </item>
+    <item>
+      <title>In-Place Tokenizer Expansion for Pre-trained LLMs</title>
+      <link>https://arxiv.org/abs/2607.15232v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.15232v1</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Smith, Jimmy T. H.</dc:creator>
+      <dc:creator>Dakhran, Tarek</dc:creator>
+      <dc:creator>Cabrera, Alberto</dc:creator>
+      <dc:creator>Lee, Simon S.</dc:creator>
+      <dc:creator>Pak, Paul</dc:creator>
+      <dc:creator>Tadimeti, Aditya</dc:creator>
+      <dc:creator>Seyde, Tim</dc:creator>
+      <dc:creator>Labonne, Maxime</dc:creator>
+      <dc:creator>Amini, Alexander</dc:creator>
+      <dc:creator>Lechner, Mathias</dc:creator>
+      <dc:date>2026-07-16</dc:date>
+    </item>
+    <item>
+      <title>LFM2 Technical Report</title>
+      <link>https://arxiv.org/abs/2511.23404v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.23404v1</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Amini, Alexander</dc:creator>
+      <dc:creator>Banaszak, Anna</dc:creator>
+      <dc:creator>Benoit, Harold</dc:creator>
+      <dc:creator>Böök, Arthur</dc:creator>
+      <dc:creator>Dakhran, Tarek</dc:creator>
+      <dc:creator>Duong, Song</dc:creator>
+      <dc:creator>Eng, Alfred</dc:creator>
+      <dc:creator>Fernandes, Fernando</dc:creator>
+      <dc:creator>Härkönen, Marc</dc:creator>
+      <dc:creator>Harrington, Anne</dc:creator>
+      <dc:creator>Hasani, Ramin</dc:creator>
+      <dc:creator>Karwa, Saniya</dc:creator>
+      <dc:creator>Khrustalev, Yuri</dc:creator>
+      <dc:creator>Labonne, Maxime</dc:creator>
+      <dc:creator>Lechner, Mathias</dc:creator>
+      <dc:creator>Lechner, Valentine</dc:creator>
+      <dc:creator>Lee, Simon</dc:creator>
+      <dc:creator>Li, Zetian</dc:creator>
+      <dc:creator>Loo, Noel</dc:creator>
+      <dc:creator>Marks, Jacob</dc:creator>
+      <dc:creator>Mosca, Edoardo</dc:creator>
+      <dc:creator>Paech, Samuel J.</dc:creator>
+      <dc:creator>Pak, Paul</dc:creator>
+      <dc:creator>Parnichkun, Rom N.</dc:creator>
+      <dc:creator>Quach, Alex</dc:creator>
+      <dc:creator>Rogers, Ryan</dc:creator>
+      <dc:creator>Rus, Daniela</dc:creator>
+      <dc:creator>Saxena, Nayan</dc:creator>
+      <dc:creator>Schlager, Bettina</dc:creator>
+      <dc:creator>Seyde, Tim</dc:creator>
+      <dc:creator>Smith, Jimmy T. H.</dc:creator>
+      <dc:creator>Tadimeti, Aditya</dc:creator>
+      <dc:creator>Tumma, Neehal</dc:creator>
+      <dc:date>2025-11-28</dc:date>
+    </item>
+    <item>
+      <title>Building Production-Ready Probes For Gemini</title>
+      <link>https://arxiv.org/abs/2601.11516v4</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.11516v4</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Kramár, János</dc:creator>
+      <dc:creator>Engels, Joshua</dc:creator>
+      <dc:creator>Wang, Zheng</dc:creator>
+      <dc:creator>Chughtai, Bilal</dc:creator>
+      <dc:creator>Shah, Rohin</dc:creator>
+      <dc:creator>Nanda, Neel</dc:creator>
+      <dc:creator>Conmy, Arthur</dc:creator>
+      <dc:date>2026-01-16</dc:date>
+    </item>
+    <item>
+      <title>Analytic non-axisymmetric 3D MHD equilibria without stellarator symmetry</title>
+      <link>https://arxiv.org/abs/2610.07304v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.07304v1</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Issan, Opal</dc:creator>
+      <dc:creator>Citrin, Jonathan</dc:creator>
+      <dc:creator>Landreman, Matt</dc:creator>
+      <dc:creator>Tracey, Brendan</dc:creator>
+      <dc:date>2026-10-05</dc:date>
+    </item>
+    <item>
+      <title>DSpark in SGLang: Speculative Decoding with Confidence-Driven, Variable-Length Verification</title>
+      <link>https://www.lmsys.org/blog/2026-07-06-dspark-sglang/</link>
+      <guid isPermaLink="true">https://www.lmsys.org/blog/2026-07-06-dspark-sglang/</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>SGLang Team</dc:creator>
+      <dc:date>2026-07-06</dc:date>
+    </item>
+    <item>
+      <title>Qwen3.8-Flash-Next: Day-0 Support in SGLang</title>
+      <link>https://www.lmsys.org/blog/2026-08-26-qwen-flash-next/</link>
+      <guid isPermaLink="true">https://www.lmsys.org/blog/2026-08-26-qwen-flash-next/</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>SGLang Team</dc:creator>
+      <dc:date>2026-08-26</dc:date>
+    </item>
+    <item>
+      <title>Serving GLM5.2 NVFP4 Agentic Workload with SGLang: Reaching 500 TPS in 2 Weeks</title>
+      <link>https://www.lmsys.org/blog/2026-07-13-glm52-optimization/</link>
+      <guid isPermaLink="true">https://www.lmsys.org/blog/2026-07-13-glm52-optimization/</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>SGLang Team</dc:creator>
+      <dc:date>2026-07-13</dc:date>
+    </item>
+    <item>
+      <title>SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining</title>
+      <link>https://arxiv.org/abs/2602.10718v3</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.10718v3</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Zhang, Yifan</dc:creator>
+      <dc:creator>Su, Zunhai</dc:creator>
+      <dc:creator>Hu, Shuhao</dc:creator>
+      <dc:creator>Yang, Rui</dc:creator>
+      <dc:creator>Wu, Wei</dc:creator>
+      <dc:creator>Qian, Yulei</dc:creator>
+      <dc:creator>Xie, Yuchen</dc:creator>
+      <dc:creator>Cai, Xunliang</dc:creator>
+      <dc:date>2026-02-11</dc:date>
+    </item>
+    <item>
+      <title>CUDA LLM decode optimization: batched MoE + kernel fusion (RTX 4090)</title>
+      <link>https://zolotukhin.ai/blog/2026-06-11-cuda-llm-decode-optimization-batched-moe-kernel-fusion/</link>
+      <guid isPermaLink="true">https://zolotukhin.ai/blog/2026-06-11-cuda-llm-decode-optimization-batched-moe-kernel-fusion/</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Stepan Zolotukhin</dc:creator>
+      <dc:date>2026-06-11</dc:date>
+    </item>
+    <item>
+      <title>MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs</title>
+      <link>https://arxiv.org/abs/2512.22219v2</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2512.22219v2</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Cheng, Xinhao</dc:creator>
+      <dc:creator>Zhang, Zhihao</dc:creator>
+      <dc:creator>Zhou, Yu</dc:creator>
+      <dc:creator>Ji, Jianan</dc:creator>
+      <dc:creator>Jiang, Jinchen</dc:creator>
+      <dc:creator>Zhao, Zepeng</dc:creator>
+      <dc:creator>Xiao, Ziruo</dc:creator>
+      <dc:creator>Ye, Zihao</dc:creator>
+      <dc:creator>Huang, Yingyi</dc:creator>
+      <dc:creator>Lai, Ruihang</dc:creator>
+      <dc:creator>Jin, Hongyi</dc:creator>
+      <dc:creator>Hou, Bohan</dc:creator>
+      <dc:creator>Wu, Mengdi</dc:creator>
+      <dc:creator>Dong, Yixin</dc:creator>
+      <dc:creator>Yip, Anthony</dc:creator>
+      <dc:creator>Ye, Zihao</dc:creator>
+      <dc:creator>Wang, Songting</dc:creator>
+      <dc:creator>Yang, Wenqin</dc:creator>
+      <dc:creator>Miao, Xupeng</dc:creator>
+      <dc:creator>Chen, Tianqi</dc:creator>
+      <dc:creator>Jia, Zhihao</dc:creator>
+      <dc:date>2025-12-22</dc:date>
+    </item>
+    <item>
+      <title>MegaMoE in FlashInfer: Fused Expert-Parallel MoE Kernels</title>
+      <link>https://flashinfer.ai/2026/09/22/mega-moe.html</link>
+      <guid isPermaLink="true">https://flashinfer.ai/2026/09/22/mega-moe.html</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Anerudhan Gopal; Kaustubh Rao; Md Saidul Hoque Anik; Faradawn Yang</dc:creator>
+      <dc:date>2026-09-22</dc:date>
+    </item>
+    <item>
+      <title>Optimizing Jagged Flash Attention with TLX: The Road Toward SOTA FA4 on Blackwell - PyTorch</title>
+      <link>https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell/</link>
+      <guid isPermaLink="true">https://pytorch.org/blog/optimizing-jagged-flash-attention-with-tlx-the-road-toward-sota-fa4-on-blackwell/</guid>
+      <pubDate>Wed, 14 Oct 2026 03:24:24 +0000</pubDate>
+      <dc:creator>Bsterling</dc:creator>
+      <dc:date>2026-10-01</dc:date>
+    </item>
+    <item>
       <title>Connectome-driven neural inventory of a complete visual system</title>
       <link>https://www.nature.com/articles/s41586-025-08746-0</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08746-0</guid>
