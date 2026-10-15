@@ -6,6 +6,48 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Exploiting neuro-inspired dynamic sparsity for energy-efficient intelligent perception</title>
+      <link>https://www.nature.com/articles/s41467-025-65387-7</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41467-025-65387-7</guid>
+      <pubDate>Thu, 15 Oct 2026 10:47:45 +0000</pubDate>
+      <dc:creator>Zhou, Sheng</dc:creator>
+      <dc:creator>Gao, Chang</dc:creator>
+      <dc:creator>Delbruck, Tobi</dc:creator>
+      <dc:creator>Verhelst, Marian</dc:creator>
+      <dc:creator>Liu, Shih-Chii</dc:creator>
+      <dc:date>2025-11-11</dc:date>
+    </item>
+    <item>
+      <title>Rex: Closing the language-verifier gap with safe and usable kernel extensions</title>
+      <link>https://www.usenix.org/conference/atc25/presentation/jia</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/atc25/presentation/jia</guid>
+      <pubDate>Thu, 15 Oct 2026 10:47:44 +0000</pubDate>
+      <dc:creator>Jinghao Jia</dc:creator>
+      <dc:creator>Ruowen Qin</dc:creator>
+      <dc:creator>Milo Craun</dc:creator>
+      <dc:creator>Egor Lukiyanov</dc:creator>
+      <dc:creator>Ayush Bansal</dc:creator>
+      <dc:creator>Minh Phan</dc:creator>
+      <dc:creator>Michael V. Le</dc:creator>
+      <dc:creator>Hubertus Franke</dc:creator>
+      <dc:creator>Hani Jamjoom</dc:creator>
+      <dc:creator>Tianyin Xu</dc:creator>
+      <dc:creator>Dan Williams</dc:creator>
+      <dc:date>2025</dc:date>
+    </item>
+    <item>
+      <title>Fearless Concurrency on the GPU</title>
+      <link>https://arxiv.org/abs/2606.15991v2</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.15991v2</guid>
+      <pubDate>Thu, 15 Oct 2026 10:47:43 +0000</pubDate>
+      <dc:creator>Elibol, Melih</dc:creator>
+      <dc:creator>Roesch, Jared</dc:creator>
+      <dc:creator>Gelado, Isaac</dc:creator>
+      <dc:creator>Buehler, Eric</dc:creator>
+      <dc:creator>Garland, Michael</dc:creator>
+      <dc:date>2026-06-14</dc:date>
+    </item>
+    <item>
       <title>LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog</title>
       <link>https://www.liquid.ai/blog/lfm2-5-24b-a2b</link>
       <guid isPermaLink="true">https://www.liquid.ai/blog/lfm2-5-24b-a2b</guid>
