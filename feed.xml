@@ -6,6 +6,56 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Striatal endocannabinoids drive one-shot learning.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/42567967/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/42567967/</guid>
+      <pubDate>Sat, 17 Oct 2026 10:55:47 +0000</pubDate>
+      <dc:creator>Charlotte Piette</dc:creator>
+      <dc:creator>Arnaud Hubert</dc:creator>
+      <dc:creator>Sylvie Perez</dc:creator>
+      <dc:creator>Jérémy Peixoto</dc:creator>
+      <dc:creator>Nicolas Gervasi</dc:creator>
+      <dc:creator>Hugues Berry</dc:creator>
+      <dc:creator>Jonathan Touboul</dc:creator>
+      <dc:creator>Laurent Venance</dc:creator>
+      <dc:date>2026-08-07</dc:date>
+    </item>
+    <item>
+      <title>Basilisk: An End-to-End Open-Source Linux-Capable RISC-V SoC in 130nm CMOS</title>
+      <link>https://arxiv.org/abs/2406.15107v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2406.15107v1</guid>
+      <pubDate>Sat, 17 Oct 2026 10:55:46 +0000</pubDate>
+      <dc:creator>Scheffler, Paul</dc:creator>
+      <dc:creator>Sauter, Philippe</dc:creator>
+      <dc:creator>Benz, Thomas</dc:creator>
+      <dc:creator>Gürkaynak, Frank K.</dc:creator>
+      <dc:creator>Benini, Luca</dc:creator>
+      <dc:date>2024-06-21</dc:date>
+    </item>
+    <item>
+      <title>Enabling Efficient {GPU} Communication over Multiple {NICs} with {FuseLink}</title>
+      <link>https://www.usenix.org/conference/osdi25/presentation/ren</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi25/presentation/ren</guid>
+      <pubDate>Sat, 17 Oct 2026 10:55:46 +0000</pubDate>
+      <dc:creator>Zhenghang Ren</dc:creator>
+      <dc:creator>Yuxuan Li</dc:creator>
+      <dc:creator>Zilong Wang</dc:creator>
+      <dc:creator>Xinyang Huang</dc:creator>
+      <dc:creator>Wenxue Li</dc:creator>
+      <dc:creator>Kaiqiang Xu</dc:creator>
+      <dc:creator>Xudong Liao</dc:creator>
+      <dc:creator>Yijun Sun</dc:creator>
+      <dc:creator>Bowen Liu</dc:creator>
+      <dc:creator>Han Tian</dc:creator>
+      <dc:creator>Junxue Zhang</dc:creator>
+      <dc:creator>Mingfei Wang</dc:creator>
+      <dc:creator>Zhizhen Zhong</dc:creator>
+      <dc:creator>Guyue Liu</dc:creator>
+      <dc:creator>Ying Zhang</dc:creator>
+      <dc:creator>Kai Chen</dc:creator>
+      <dc:date>2025</dc:date>
+    </item>
+    <item>
       <title>Exploiting neuro-inspired dynamic sparsity for energy-efficient intelligent perception</title>
       <link>https://www.nature.com/articles/s41467-025-65387-7</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41467-025-65387-7</guid>
