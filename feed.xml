@@ -6,6 +6,51 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>A highly energy-efficient multi-core neuromorphic architecture for training deep spiking neural networks</title>
+      <link>https://www.nature.com/articles/s41467-026-70586-x</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41467-026-70586-x</guid>
+      <pubDate>Tue, 20 Oct 2026 13:33:38 +0000</pubDate>
+      <dc:creator>Li, Mingjing</dc:creator>
+      <dc:creator>Zhou, Huihui</dc:creator>
+      <dc:creator>Xu, Xiaofeng</dc:creator>
+      <dc:creator>Zhong, Zhiwei</dc:creator>
+      <dc:creator>Quan, Puli</dc:creator>
+      <dc:creator>Zhu, Xueke</dc:creator>
+      <dc:creator>Lin, Yanyu</dc:creator>
+      <dc:creator>Lin, Wenjie</dc:creator>
+      <dc:creator>Li, Xiaosha</dc:creator>
+      <dc:creator>Wang, Dong</dc:creator>
+      <dc:creator>Zhang, Junchao</dc:creator>
+      <dc:creator>Ma, Yunhao</dc:creator>
+      <dc:creator>Cui, Xiaole</dc:creator>
+      <dc:creator>Wang, Wei</dc:creator>
+      <dc:creator>Meng, Qingyan</dc:creator>
+      <dc:creator>Ma, Zhengyu</dc:creator>
+      <dc:creator>Li, Guoqi</dc:creator>
+      <dc:creator>Cui, Xiaoxin</dc:creator>
+      <dc:creator>Tian, Yonghong</dc:creator>
+      <dc:date>2026-03-25</dc:date>
+    </item>
+    <item>
+      <title>A deterministic neuromorphic architecture with scalable time synchronization</title>
+      <link>https://www.nature.com/articles/s41467-025-65268-z</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41467-025-65268-z</guid>
+      <pubDate>Tue, 20 Oct 2026 13:33:38 +0000</pubDate>
+      <dc:creator>Li, Congyang</dc:creator>
+      <dc:creator>Imam, Nabil</dc:creator>
+      <dc:creator>Manohar, Rajit</dc:creator>
+      <dc:date>2025-11-24</dc:date>
+    </item>
+    <item>
+      <title>Solving sparse finite element problems on neuromorphic hardware</title>
+      <link>https://www.nature.com/articles/s42256-025-01143-2</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s42256-025-01143-2</guid>
+      <pubDate>Tue, 20 Oct 2026 13:33:37 +0000</pubDate>
+      <dc:creator>Theilman, Bradley H.</dc:creator>
+      <dc:creator>Aimone, James B.</dc:creator>
+      <dc:date>2025-11</dc:date>
+    </item>
+    <item>
       <title>Why Has Construction Productivity Stagnated? The Role of Land-Use Regulation</title>
       <link>https://www.nber.org/papers/w33188</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w33188</guid>
