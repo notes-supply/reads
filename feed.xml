@@ -6,6 +6,85 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Scalable NorthPole System with End-to-End Vertical Integration for Low-Latency and Energy-Efficient LLM Inference</title>
+      <link>https://arxiv.org/abs/2511.15950v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15950v1</guid>
+      <pubDate>Tue, 20 Oct 2026 13:37:32 +0000</pubDate>
+      <dc:creator>DeBole, Michael V.</dc:creator>
+      <dc:creator>Appuswamy, Rathinakumar</dc:creator>
+      <dc:creator>McGlohon, Neil</dc:creator>
+      <dc:creator>Taba, Brian</dc:creator>
+      <dc:creator>Esser, Steven K.</dc:creator>
+      <dc:creator>Akopyan, Filipp</dc:creator>
+      <dc:creator>Arthur, John V.</dc:creator>
+      <dc:creator>Amir, Arnon</dc:creator>
+      <dc:creator>Andreopoulos, Alexander</dc:creator>
+      <dc:creator>Carlson, Peter J.</dc:creator>
+      <dc:creator>Cassidy, Andrew S.</dc:creator>
+      <dc:creator>Datta, Pallab</dc:creator>
+      <dc:creator>Flickner, Myron D.</dc:creator>
+      <dc:creator>Gandhasri, Rajamohan</dc:creator>
+      <dc:creator>Garreau, Guillaume J.</dc:creator>
+      <dc:creator>Ito, Megumi</dc:creator>
+      <dc:creator>Klamo, Jennifer L.</dc:creator>
+      <dc:creator>Kusnitz, Jeffrey A.</dc:creator>
+      <dc:creator>McClatchey, Nathaniel J.</dc:creator>
+      <dc:creator>McKinstry, Jeffrey L.</dc:creator>
+      <dc:creator>Nayak, Tapan K.</dc:creator>
+      <dc:creator>Otero, Carlos Ortega</dc:creator>
+      <dc:creator>Penner, Hartmut</dc:creator>
+      <dc:creator>Risk, William P.</dc:creator>
+      <dc:creator>Sawada, Jun</dc:creator>
+      <dc:creator>Sivagnaname, Jay</dc:creator>
+      <dc:creator>Smith, Daniel F.</dc:creator>
+      <dc:creator>Sousa, Rafael</dc:creator>
+      <dc:creator>Terrizzano, Ignacio</dc:creator>
+      <dc:creator>Ueda, Takanori</dc:creator>
+      <dc:creator>Gray-Donald, Trent</dc:creator>
+      <dc:creator>Cox, David</dc:creator>
+      <dc:creator>Modha, Dharmendra S.</dc:creator>
+      <dc:date>2025-11-20</dc:date>
+    </item>
+    <item>
+      <title>Neural inference at the frontier of energy, space, and time.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/37856600/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/37856600/</guid>
+      <pubDate>Tue, 20 Oct 2026 13:37:32 +0000</pubDate>
+      <dc:creator>Dharmendra S Modha</dc:creator>
+      <dc:creator>Filipp Akopyan</dc:creator>
+      <dc:creator>Alexander Andreopoulos</dc:creator>
+      <dc:creator>Rathinakumar Appuswamy</dc:creator>
+      <dc:creator>John V Arthur</dc:creator>
+      <dc:creator>Andrew S Cassidy</dc:creator>
+      <dc:creator>Pallab Datta</dc:creator>
+      <dc:creator>Michael V DeBole</dc:creator>
+      <dc:creator>Steven K Esser</dc:creator>
+      <dc:creator>Carlos Ortega Otero</dc:creator>
+      <dc:creator>Jun Sawada</dc:creator>
+      <dc:creator>Brian Taba</dc:creator>
+      <dc:creator>Arnon Amir</dc:creator>
+      <dc:creator>Deepika Bablani</dc:creator>
+      <dc:creator>Peter J Carlson</dc:creator>
+      <dc:creator>Myron D Flickner</dc:creator>
+      <dc:creator>Rajamohan Gandhasri</dc:creator>
+      <dc:creator>Guillaume J Garreau</dc:creator>
+      <dc:creator>Megumi Ito</dc:creator>
+      <dc:creator>Jennifer L Klamo</dc:creator>
+      <dc:creator>Jeffrey A Kusnitz</dc:creator>
+      <dc:creator>Nathaniel J McClatchey</dc:creator>
+      <dc:creator>Jeffrey L McKinstry</dc:creator>
+      <dc:creator>Yutaka Nakamura</dc:creator>
+      <dc:creator>Tapan K Nayak</dc:creator>
+      <dc:creator>William P Risk</dc:creator>
+      <dc:creator>Kai Schleupen</dc:creator>
+      <dc:creator>Ben Shaw</dc:creator>
+      <dc:creator>Jay Sivagnaname</dc:creator>
+      <dc:creator>Daniel F Smith</dc:creator>
+      <dc:creator>Ignacio Terrizzano</dc:creator>
+      <dc:creator>Takanori Ueda</dc:creator>
+      <dc:date>2023-10-19</dc:date>
+    </item>
+    <item>
       <title>A highly energy-efficient multi-core neuromorphic architecture for training deep spiking neural networks</title>
       <link>https://www.nature.com/articles/s41467-026-70586-x</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41467-026-70586-x</guid>
