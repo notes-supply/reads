@@ -6,6 +6,112 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Artificial brains. A million spiking-neuron integrated circuit with a scalable communication network and interface.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/25104385/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/25104385/</guid>
+      <pubDate>Tue, 20 Oct 2026 13:40:07 +0000</pubDate>
+      <dc:creator>Paul A Merolla</dc:creator>
+      <dc:creator>John V Arthur</dc:creator>
+      <dc:creator>Rodrigo Alvarez-Icaza</dc:creator>
+      <dc:creator>Andrew S Cassidy</dc:creator>
+      <dc:creator>Jun Sawada</dc:creator>
+      <dc:creator>Filipp Akopyan</dc:creator>
+      <dc:creator>Bryan L Jackson</dc:creator>
+      <dc:creator>Nabil Imam</dc:creator>
+      <dc:creator>Chen Guo</dc:creator>
+      <dc:creator>Yutaka Nakamura</dc:creator>
+      <dc:creator>Bernard Brezzo</dc:creator>
+      <dc:creator>Ivan Vo</dc:creator>
+      <dc:creator>Steven K Esser</dc:creator>
+      <dc:creator>Rathinakumar Appuswamy</dc:creator>
+      <dc:creator>Brian Taba</dc:creator>
+      <dc:creator>Arnon Amir</dc:creator>
+      <dc:creator>Myron D Flickner</dc:creator>
+      <dc:creator>William P Risk</dc:creator>
+      <dc:creator>Rajit Manohar</dc:creator>
+      <dc:creator>Dharmendra S Modha</dc:creator>
+      <dc:date>2014-08-07</dc:date>
+    </item>
+    <item>
+      <title>Fast and robust analog in-memory deep neural network training</title>
+      <link>https://www.nature.com/articles/s41467-024-51221-z</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41467-024-51221-z</guid>
+      <pubDate>Tue, 20 Oct 2026 13:40:07 +0000</pubDate>
+      <dc:creator>Rasch, Malte J.</dc:creator>
+      <dc:creator>Carta, Fabio</dc:creator>
+      <dc:creator>Fagbohungbe, Omobayode</dc:creator>
+      <dc:creator>Gokmen, Tayfun</dc:creator>
+      <dc:date>2024-08-20</dc:date>
+    </item>
+    <item>
+      <title>An analog-AI chip for energy-efficient speech recognition and transcription</title>
+      <link>https://www.nature.com/articles/s41586-023-06337-5</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41586-023-06337-5</guid>
+      <pubDate>Tue, 20 Oct 2026 13:40:06 +0000</pubDate>
+      <dc:creator>Ambrogio, S.</dc:creator>
+      <dc:creator>Narayanan, P.</dc:creator>
+      <dc:creator>Okazaki, A.</dc:creator>
+      <dc:creator>Fasoli, A.</dc:creator>
+      <dc:creator>Mackin, C.</dc:creator>
+      <dc:creator>Hosokawa, K.</dc:creator>
+      <dc:creator>Nomura, A.</dc:creator>
+      <dc:creator>Yasuda, T.</dc:creator>
+      <dc:creator>Chen, A.</dc:creator>
+      <dc:creator>Friz, A.</dc:creator>
+      <dc:creator>Ishii, M.</dc:creator>
+      <dc:creator>Luquin, J.</dc:creator>
+      <dc:creator>Kohda, Y.</dc:creator>
+      <dc:creator>Saulnier, N.</dc:creator>
+      <dc:creator>Brew, K.</dc:creator>
+      <dc:creator>Choi, S.</dc:creator>
+      <dc:creator>Ok, I.</dc:creator>
+      <dc:creator>Philip, T.</dc:creator>
+      <dc:creator>Chan, V.</dc:creator>
+      <dc:creator>Silvestre, C.</dc:creator>
+      <dc:creator>Ahsan, I.</dc:creator>
+      <dc:creator>Narayanan, V.</dc:creator>
+      <dc:creator>Tsai, H.</dc:creator>
+      <dc:creator>Burr, G. W.</dc:creator>
+      <dc:date>2023-08</dc:date>
+    </item>
+    <item>
+      <title>A 64-core mixed-signal in-memory compute chip based on phase-change memory for deep neural network inference</title>
+      <link>https://www.nature.com/articles/s41928-023-01010-1</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41928-023-01010-1</guid>
+      <pubDate>Tue, 20 Oct 2026 13:40:06 +0000</pubDate>
+      <dc:creator>Le Gallo, Manuel</dc:creator>
+      <dc:creator>Khaddam-Aljameh, Riduan</dc:creator>
+      <dc:creator>Stanisavljevic, Milos</dc:creator>
+      <dc:creator>Vasilopoulos, Athanasios</dc:creator>
+      <dc:creator>Kersting, Benedikt</dc:creator>
+      <dc:creator>Dazzi, Martino</dc:creator>
+      <dc:creator>Karunaratne, Geethan</dc:creator>
+      <dc:creator>Brändli, Matthias</dc:creator>
+      <dc:creator>Singh, Abhairaj</dc:creator>
+      <dc:creator>Müller, Silvia M.</dc:creator>
+      <dc:creator>Büchel, Julian</dc:creator>
+      <dc:creator>Timoneda, Xavier</dc:creator>
+      <dc:creator>Joshi, Vinay</dc:creator>
+      <dc:creator>Rasch, Malte J.</dc:creator>
+      <dc:creator>Egger, Urs</dc:creator>
+      <dc:creator>Garofalo, Angelo</dc:creator>
+      <dc:creator>Petropoulos, Anastasios</dc:creator>
+      <dc:creator>Antonakopoulos, Theodore</dc:creator>
+      <dc:creator>Brew, Kevin</dc:creator>
+      <dc:creator>Choi, Samuel</dc:creator>
+      <dc:creator>Ok, Injo</dc:creator>
+      <dc:creator>Philip, Timothy</dc:creator>
+      <dc:creator>Chan, Victor</dc:creator>
+      <dc:creator>Silvestre, Claire</dc:creator>
+      <dc:creator>Ahsan, Ishtiaq</dc:creator>
+      <dc:creator>Saulnier, Nicole</dc:creator>
+      <dc:creator>Narayanan, Vijay</dc:creator>
+      <dc:creator>Francese, Pier Andrea</dc:creator>
+      <dc:creator>Eleftheriou, Evangelos</dc:creator>
+      <dc:creator>Sebastian, Abu</dc:creator>
+      <dc:date>2023-09</dc:date>
+    </item>
+    <item>
       <title>A Scalable NorthPole System with End-to-End Vertical Integration for Low-Latency and Energy-Efficient LLM Inference</title>
       <link>https://arxiv.org/abs/2511.15950v1</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2511.15950v1</guid>
