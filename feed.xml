@@ -6,6 +6,35 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Why Has Construction Productivity Stagnated? The Role of Land-Use Regulation</title>
+      <link>https://www.nber.org/papers/w33188</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w33188</guid>
+      <pubDate>Tue, 20 Oct 2026 09:14:08 +0000</pubDate>
+      <dc:creator>Leonardo D'Amico</dc:creator>
+      <dc:creator>Edward L. Glaeser</dc:creator>
+      <dc:creator>Joseph Gyourko</dc:creator>
+      <dc:creator>William R. Kerr</dc:creator>
+      <dc:creator>Giacomo A.M. Ponzetto</dc:creator>
+      <dc:date>2024-11-25</dc:date>
+    </item>
+    <item>
+      <title>{DRust}: {Language-Guided} Distributed Shared Memory with Fine Granularity, Full Transparency, and Ultra Efficiency</title>
+      <link>https://www.usenix.org/conference/osdi24/presentation/ma-haoran</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi24/presentation/ma-haoran</guid>
+      <pubDate>Tue, 20 Oct 2026 09:14:07 +0000</pubDate>
+      <dc:creator>Haoran Ma</dc:creator>
+      <dc:creator>Yifan Qiao</dc:creator>
+      <dc:creator>Shi Liu</dc:creator>
+      <dc:creator>Shan Yu</dc:creator>
+      <dc:creator>Yuanjiang Ni</dc:creator>
+      <dc:creator>Qingda Lu</dc:creator>
+      <dc:creator>Jiesheng Wu</dc:creator>
+      <dc:creator>Yiying Zhang</dc:creator>
+      <dc:creator>Miryung Kim</dc:creator>
+      <dc:creator>Harry Xu</dc:creator>
+      <dc:date>2024</dc:date>
+    </item>
+    <item>
       <title>Striatal endocannabinoids drive one-shot learning.</title>
       <link>https://pubmed.ncbi.nlm.nih.gov/42567967/</link>
       <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/42567967/</guid>
