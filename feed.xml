@@ -6,6 +6,23 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Categorization is ‘baked’ into the brain</title>
+      <link>https://www.nature.com/articles/s41583-026-01036-2</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41583-026-01036-2</guid>
+      <pubDate>Sun, 25 Oct 2026 02:13:39 +0000</pubDate>
+      <dc:creator>Barrett, Lisa Feldman</dc:creator>
+      <dc:creator>Miller, Earl K.</dc:creator>
+      <dc:date>2026-06</dc:date>
+    </item>
+    <item>
+      <title>The inner workings of TCP zero-copy</title>
+      <link>https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html</link>
+      <guid isPermaLink="true">https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html</guid>
+      <pubDate>Sun, 25 Oct 2026 02:13:31 +0000</pubDate>
+      <dc:creator>Toke Høiland-Jørgensen</dc:creator>
+      <dc:date>2026-02-27</dc:date>
+    </item>
+    <item>
       <title>Supply Constraints do not Explain House Price and Quantity Growth Across U.S. Cities</title>
       <link>https://www.nber.org/papers/w33576</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w33576</guid>
