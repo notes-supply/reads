@@ -6,6 +6,33 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Selecting Innovation Funding Mechanisms: A Framework for Policymakers</title>
+      <link>https://www.nber.org/papers/w35549</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w35549</guid>
+      <pubDate>Tue, 27 Oct 2026 20:06:44 +0000</pubDate>
+      <dc:creator>Matthew S. Clancy</dc:creator>
+      <dc:creator>Matthew Esche</dc:creator>
+      <dc:creator>Siddhartha Haria</dc:creator>
+      <dc:creator>Claire T. McMahon</dc:creator>
+      <dc:creator>Christopher M. Snyder</dc:creator>
+      <dc:creator>Caleb Watney</dc:creator>
+      <dc:date>2026-08-03</dc:date>
+    </item>
+    <item>
+      <title>PICASSO: Scaling CHERI Use-After-Free Protection to Millions of Allocations using Colored Capabilities</title>
+      <link>https://arxiv.org/abs/2602.09131v2</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.09131v2</guid>
+      <pubDate>Tue, 27 Oct 2026 20:06:43 +0000</pubDate>
+      <dc:creator>Gülmez, Merve</dc:creator>
+      <dc:creator>Sturm, Ruben</dc:creator>
+      <dc:creator>ElAtali, Hossam</dc:creator>
+      <dc:creator>Englund, Håkan</dc:creator>
+      <dc:creator>Woodruff, Jonathan</dc:creator>
+      <dc:creator>Asokan, N.</dc:creator>
+      <dc:creator>Nyman, Thomas</dc:creator>
+      <dc:date>2026-02-09</dc:date>
+    </item>
+    <item>
       <title>Categorization is ‘baked’ into the brain</title>
       <link>https://www.nature.com/articles/s41583-026-01036-2</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41583-026-01036-2</guid>
