@@ -6,6 +6,27 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Experience reorganizes content-specific memory traces in macaques.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/42527550/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/42527550/</guid>
+      <pubDate>Fri, 30 Oct 2026 02:20:53 +0000</pubDate>
+      <dc:creator>Saman Abbaspoor</dc:creator>
+      <dc:creator>Ayman Aljishi</dc:creator>
+      <dc:creator>Kari L Hoffman</dc:creator>
+      <dc:date>2026-07-29</dc:date>
+    </item>
+    <item>
+      <title>WarpDRF: The Unwritten Contract of GPU Warp Programming</title>
+      <link>https://arxiv.org/abs/2610.07541v2</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.07541v2</guid>
+      <pubDate>Fri, 30 Oct 2026 02:20:52 +0000</pubDate>
+      <dc:creator>Chen, Zheyuan</dc:creator>
+      <dc:creator>Kagle, Simon</dc:creator>
+      <dc:creator>Cogumbreiro, Tiago</dc:creator>
+      <dc:creator>Sorensen, Tyler</dc:creator>
+      <dc:date>2026-10-06</dc:date>
+    </item>
+    <item>
       <title>Selecting Innovation Funding Mechanisms: A Framework for Policymakers</title>
       <link>https://www.nber.org/papers/w35549</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w35549</guid>
