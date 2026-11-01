@@ -6,6 +6,34 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Building Bridges: Safe Interactions with Foreign Languages through Omniglot</title>
+      <link>https://www.usenix.org/conference/osdi25/presentation/schuermann</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi25/presentation/schuermann</guid>
+      <pubDate>Sun, 01 Nov 2026 13:08:19 +0000</pubDate>
+      <dc:creator>Leon Schuermann</dc:creator>
+      <dc:creator>Jack Toubes</dc:creator>
+      <dc:creator>Tyler Potyondy</dc:creator>
+      <dc:creator>Pat Pannuto</dc:creator>
+      <dc:creator>Mae Milano</dc:creator>
+      <dc:creator>Amit Levy</dc:creator>
+      <dc:date>2025</dc:date>
+    </item>
+    <item>
+      <title>Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference</title>
+      <link>https://arxiv.org/abs/2503.08311v2</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2503.08311v2</guid>
+      <pubDate>Sun, 01 Nov 2026 13:08:18 +0000</pubDate>
+      <dc:creator>Recasens, Pol G.</dc:creator>
+      <dc:creator>Agullo, Ferran</dc:creator>
+      <dc:creator>Zhu, Yue</dc:creator>
+      <dc:creator>Wang, Chen</dc:creator>
+      <dc:creator>Lee, Eun Kyung</dc:creator>
+      <dc:creator>Tardieu, Olivier</dc:creator>
+      <dc:creator>Torres, Jordi</dc:creator>
+      <dc:creator>Berral, Josep Ll.</dc:creator>
+      <dc:date>2025-03-11</dc:date>
+    </item>
+    <item>
       <title>Experience reorganizes content-specific memory traces in macaques.</title>
       <link>https://pubmed.ncbi.nlm.nih.gov/42527550/</link>
       <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/42527550/</guid>
