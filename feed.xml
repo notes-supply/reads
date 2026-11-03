@@ -6,6 +6,65 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>{SBB}: Eliminating Centralized Bottlenecks in Userspace Network Runtime</title>
+      <link>https://www.usenix.org/conference/osdi26/presentation/hu-kang</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi26/presentation/hu-kang</guid>
+      <pubDate>Tue, 03 Nov 2026 23:20:44 +0000</pubDate>
+      <dc:creator>Kang Hu</dc:creator>
+      <dc:creator>Shuqi Dong</dc:creator>
+      <dc:creator>Chuandong Li</dc:creator>
+      <dc:creator>Ran Yi</dc:creator>
+      <dc:creator>Zonghao Zhang</dc:creator>
+      <dc:creator>Yiming Yao</dc:creator>
+      <dc:creator>Bo An</dc:creator>
+      <dc:creator>Jie Zhang</dc:creator>
+      <dc:creator>Xiaolin Wang</dc:creator>
+      <dc:creator>Yingwei Luo</dc:creator>
+      <dc:creator>Zhenlin Wang</dc:creator>
+      <dc:creator>Diyu Zhou</dc:creator>
+      <dc:date>2026</dc:date>
+    </item>
+    <item>
+      <title>Knowledge preservation in the era of big science and AI: strategies for sustainable scientific research</title>
+      <link>https://www.nature.com/articles/s41467-026-72667-3</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41467-026-72667-3</guid>
+      <pubDate>Tue, 03 Nov 2026 23:20:43 +0000</pubDate>
+      <dc:creator>Rainford, Penn F.</dc:creator>
+      <dc:creator>Occhipinti, Annalisa</dc:creator>
+      <dc:creator>Wang, Bo</dc:creator>
+      <dc:creator>Stepney, Susan</dc:creator>
+      <dc:creator>Angione, Claudio</dc:creator>
+      <dc:creator>Verma, Suraj</dc:creator>
+      <dc:creator>Marucci, Lucia</dc:creator>
+      <dc:creator>Sharma, Kieren</dc:creator>
+      <dc:creator>Harris, Sarah A.</dc:creator>
+      <dc:creator>Füchslin, Rudolf M.</dc:creator>
+      <dc:creator>Klipp, Edda</dc:creator>
+      <dc:creator>Grierson, Claire S.</dc:creator>
+      <dc:creator>Weyland, Mathias S.</dc:creator>
+      <dc:creator>Mogre, Aalap</dc:creator>
+      <dc:creator>Fellermann, Harold</dc:creator>
+      <dc:creator>Doan, Le Minh Thao</dc:creator>
+      <dc:creator>Gherman, Ioana M.</dc:creator>
+      <dc:creator>Pyne, Alice L. B.</dc:creator>
+      <dc:creator>Rudge, Timothy J.</dc:creator>
+      <dc:creator>Berrelleza, Victor M. V.</dc:creator>
+      <dc:creator>Gorochowski, Thomas E.</dc:creator>
+      <dc:date>2026-05-05</dc:date>
+    </item>
+    <item>
+      <title>Over the Memory Wall, Into the Instruction Wall: The New Bottleneck in GPU Data Processing</title>
+      <link>https://arxiv.org/abs/2608.13696v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13696v1</guid>
+      <pubDate>Tue, 03 Nov 2026 23:20:42 +0000</pubDate>
+      <dc:creator>Hepkema, Sven</dc:creator>
+      <dc:creator>Wu, Bowen</dc:creator>
+      <dc:creator>Kozyrakis, Christos</dc:creator>
+      <dc:creator>Chronis, Yannis</dc:creator>
+      <dc:creator>Alonso, Gustavo</dc:creator>
+      <dc:date>2026-08-13</dc:date>
+    </item>
+    <item>
       <title>Building Bridges: Safe Interactions with Foreign Languages through Omniglot</title>
       <link>https://www.usenix.org/conference/osdi25/presentation/schuermann</link>
       <guid isPermaLink="true">https://www.usenix.org/conference/osdi25/presentation/schuermann</guid>
