@@ -6,6 +6,138 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>How Reform Happens</title>
+      <link>https://www.nber.org/papers/w35119</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w35119</guid>
+      <pubDate>Fri, 06 Nov 2026 09:38:10 +0000</pubDate>
+      <dc:creator>Simeon Djankov</dc:creator>
+      <dc:creator>Edward L. Glaeser</dc:creator>
+      <dc:creator>Andrei Shleifer</dc:creator>
+      <dc:date>2026-04-27</dc:date>
+    </item>
+    <item>
+      <title>Distributed control circuits across a brain-and-cord connectome.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/42259917/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/42259917/</guid>
+      <pubDate>Fri, 06 Nov 2026 09:38:10 +0000</pubDate>
+      <dc:creator>Alexander S Bates</dc:creator>
+      <dc:creator>Jasper S Phelps</dc:creator>
+      <dc:creator>Minsu Kim</dc:creator>
+      <dc:creator>Helen H Yang</dc:creator>
+      <dc:creator>Arie Matsliah</dc:creator>
+      <dc:creator>Zaki Ajabi</dc:creator>
+      <dc:creator>Eric Perlman</dc:creator>
+      <dc:creator>Kevin M Delgado</dc:creator>
+      <dc:creator>Mohammed Abdal Monium Osman</dc:creator>
+      <dc:creator>Christopher K Salmon</dc:creator>
+      <dc:creator>Jay Gager</dc:creator>
+      <dc:creator>Benjamin Silverman</dc:creator>
+      <dc:creator>Sophia Renauld</dc:creator>
+      <dc:creator>Farzaan Salman</dc:creator>
+      <dc:creator>Janki Patel</dc:creator>
+      <dc:creator>Matthew F Collie</dc:creator>
+      <dc:creator>Jingxuan Fan</dc:creator>
+      <dc:creator>Diego A Pacheco</dc:creator>
+      <dc:creator>Yunzhi Zhao</dc:creator>
+      <dc:creator>Wenyi Zhang</dc:creator>
+      <dc:creator>Laia Serratosa Capdevila</dc:creator>
+      <dc:creator>Ruairí J V Roberts</dc:creator>
+      <dc:creator>Eva J Munnelly</dc:creator>
+      <dc:creator>Nina Griggs</dc:creator>
+      <dc:creator>Helen Langley</dc:creator>
+      <dc:creator>Borja Moya-Llamas</dc:creator>
+      <dc:creator>Zuoyu Zhang</dc:creator>
+      <dc:creator>Ryan T Maloney</dc:creator>
+      <dc:creator>Szi-Chieh Yu</dc:creator>
+      <dc:creator>Amy R Sterling</dc:creator>
+      <dc:creator>Marissa Sorek</dc:creator>
+      <dc:creator>Krzysztof Kruk</dc:creator>
+      <dc:creator>Nikitas Serafetinidis</dc:creator>
+      <dc:creator>Serene Dhawan</dc:creator>
+      <dc:creator>Finja Klemm</dc:creator>
+      <dc:creator>Paul Brooks</dc:creator>
+      <dc:creator>Ellen Lesser</dc:creator>
+      <dc:creator>Jessica M Jones</dc:creator>
+      <dc:creator>Sara E Pierce-Lundgren</dc:creator>
+      <dc:creator>Su-Yee Lee</dc:creator>
+      <dc:creator>Yichen Luo</dc:creator>
+      <dc:creator>Andrew P Cook</dc:creator>
+      <dc:creator>Theresa H McKim</dc:creator>
+      <dc:creator>Dimitrios Stasi Giakoumas</dc:creator>
+      <dc:creator>Benjamin Gorko</dc:creator>
+      <dc:creator>Justin Ellis-Joyce</dc:creator>
+      <dc:creator>Jiayi Zhang</dc:creator>
+      <dc:creator>Emily C Kophs</dc:creator>
+      <dc:creator>Tjalda Falt</dc:creator>
+      <dc:creator>Alexa M Negron-Morales</dc:creator>
+      <dc:creator>Austin Burke</dc:creator>
+      <dc:creator>James Hebditch</dc:creator>
+      <dc:creator>Kyle P Willie</dc:creator>
+      <dc:creator>Ryan Willie</dc:creator>
+      <dc:creator>Sergiy Popovych</dc:creator>
+      <dc:creator>Nico Kemnitz</dc:creator>
+      <dc:creator>Dodam Ih</dc:creator>
+      <dc:creator>Kisuk Lee</dc:creator>
+      <dc:creator>Ran Lu</dc:creator>
+      <dc:creator>Akhilesh Halageri</dc:creator>
+      <dc:creator>J Alexander Bae</dc:creator>
+      <dc:creator>Ben Jourdan</dc:creator>
+      <dc:creator>Gregory Schwartzman</dc:creator>
+      <dc:creator>Damian D Demarest</dc:creator>
+      <dc:creator>Emily Behnke</dc:creator>
+      <dc:creator>Doug Bland</dc:creator>
+      <dc:creator>Anne Kristiansen</dc:creator>
+      <dc:creator>Jaime Skelton</dc:creator>
+      <dc:creator>Tom Stocks</dc:creator>
+      <dc:creator>Dustin Garner</dc:creator>
+      <dc:creator>Anthony Hernandez</dc:creator>
+      <dc:creator>Sandeep Kumar</dc:creator>
+      <dc:creator>BANC-FlyWire Consortium</dc:creator>
+      <dc:creator>Kevin C Daly</dc:creator>
+      <dc:creator>Sven Dorkenwald</dc:creator>
+      <dc:creator>Forrest Collman</dc:creator>
+      <dc:creator>Marie P Suver</dc:creator>
+      <dc:creator>Lisa M Fenk</dc:creator>
+      <dc:creator>Michael J Pankratz</dc:creator>
+      <dc:creator>Zepeng Yao</dc:creator>
+      <dc:creator>Fei Wang</dc:creator>
+      <dc:creator>Stephen J Huston</dc:creator>
+      <dc:creator>Tomke Stürner</dc:creator>
+      <dc:creator>Gregory S X E Jefferis</dc:creator>
+      <dc:creator>Katharina Eichler</dc:creator>
+      <dc:creator>Andrew M Seeds</dc:creator>
+      <dc:creator>Stefanie Hampel</dc:creator>
+      <dc:creator>Sweta Agrawal</dc:creator>
+      <dc:creator>Tatsuo S Okubo</dc:creator>
+      <dc:creator>Meet Zandawala</dc:creator>
+      <dc:creator>Thomas Macrina</dc:creator>
+      <dc:creator>Diane-Yayra Adjavon</dc:creator>
+      <dc:creator>Jan Funke</dc:creator>
+      <dc:creator>John C Tuthill</dc:creator>
+      <dc:creator>Anthony Azevedo</dc:creator>
+      <dc:creator>H Sebastian Seung</dc:creator>
+      <dc:creator>Benjamin L de Bivort</dc:creator>
+      <dc:creator>Mala Murthy</dc:creator>
+      <dc:creator>Jan Drugowitsch</dc:creator>
+      <dc:creator>Rachel I Wilson</dc:creator>
+      <dc:creator>Wei-Chung Allen Lee</dc:creator>
+      <dc:date>2026-06-08</dc:date>
+    </item>
+    <item>
+      <title>{Continuation-Centric} Computing with Arca</title>
+      <link>https://www.usenix.org/conference/osdi26/presentation/srivatsan</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi26/presentation/srivatsan</guid>
+      <pubDate>Fri, 06 Nov 2026 09:38:09 +0000</pubDate>
+      <dc:creator>Akshay Srivatsan</dc:creator>
+      <dc:creator>Yuhan Deng</dc:creator>
+      <dc:creator>Katherine Mohr</dc:creator>
+      <dc:creator>Emma Sudo</dc:creator>
+      <dc:creator>Sebastian Ingino</dc:creator>
+      <dc:creator>Francis Chua</dc:creator>
+      <dc:creator>Keith Winstein</dc:creator>
+      <dc:date>2026</dc:date>
+    </item>
+    <item>
       <title>{SBB}: Eliminating Centralized Bottlenecks in Userspace Network Runtime</title>
       <link>https://www.usenix.org/conference/osdi26/presentation/hu-kang</link>
       <guid isPermaLink="true">https://www.usenix.org/conference/osdi26/presentation/hu-kang</guid>
