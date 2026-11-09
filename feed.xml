@@ -6,6 +6,90 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025</title>
+      <link>https://www.nber.org/papers/w35854</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w35854</guid>
+      <pubDate>Mon, 09 Nov 2026 01:34:03 +0000</pubDate>
+      <dc:creator>Marius A. K. Ring</dc:creator>
+      <dc:date>2026-10-05</dc:date>
+    </item>
+    <item>
+      <title>A brain-wide map of neural activity during complex behaviour.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/40903598/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/40903598/</guid>
+      <pubDate>Mon, 09 Nov 2026 01:34:02 +0000</pubDate>
+      <dc:creator>International Brain Laboratory</dc:creator>
+      <dc:creator>Dora Angelaki</dc:creator>
+      <dc:creator>Brandon Benson</dc:creator>
+      <dc:creator>Julius Benson</dc:creator>
+      <dc:creator>Daniel Birman</dc:creator>
+      <dc:creator>Niccolò Bonacchi</dc:creator>
+      <dc:creator>Kcénia Bougrova</dc:creator>
+      <dc:creator>Sebastian A Bruijns</dc:creator>
+      <dc:creator>Matteo Carandini</dc:creator>
+      <dc:creator>Joana A Catarino</dc:creator>
+      <dc:creator>Gaelle A Chapuis</dc:creator>
+      <dc:creator>Anne K Churchland</dc:creator>
+      <dc:creator>Yang Dan</dc:creator>
+      <dc:creator>Felicia Davatolhagh</dc:creator>
+      <dc:creator>Peter Dayan</dc:creator>
+      <dc:creator>Eric Ej DeWitt</dc:creator>
+      <dc:creator>Tatiana A Engel</dc:creator>
+      <dc:creator>Michele Fabbri</dc:creator>
+      <dc:creator>Mayo Faulkner</dc:creator>
+      <dc:creator>Ila Rani Fiete</dc:creator>
+      <dc:creator>Charles Findling</dc:creator>
+      <dc:creator>Laura Freitas-Silva</dc:creator>
+      <dc:creator>Berk Gerçek</dc:creator>
+      <dc:creator>Kenneth D Harris</dc:creator>
+      <dc:creator>Michael Häusser</dc:creator>
+      <dc:creator>Sonja B Hofer</dc:creator>
+      <dc:creator>Fei Hu</dc:creator>
+      <dc:creator>Félix Hubert</dc:creator>
+      <dc:creator>Julia M Huntenburg</dc:creator>
+      <dc:creator>Anup Khanal</dc:creator>
+      <dc:creator>Christopher S Krasniak</dc:creator>
+      <dc:creator>Christopher Langdon</dc:creator>
+      <dc:creator>Christopher Langfield</dc:creator>
+      <dc:creator>Petrina Y P Lau</dc:creator>
+      <dc:creator>Zachary F Mainen</dc:creator>
+      <dc:creator>Guido T Meijer</dc:creator>
+      <dc:creator>Nathaniel J Miska</dc:creator>
+      <dc:creator>Thomas D Mrsic-Flogel</dc:creator>
+      <dc:creator>Jean-Paul Noel</dc:creator>
+      <dc:creator>Kai Nylund</dc:creator>
+      <dc:creator>Alejandro Pan-Vazquez</dc:creator>
+      <dc:creator>Liam Paninski</dc:creator>
+      <dc:creator>Alexandre Pouget</dc:creator>
+      <dc:creator>Cyrille Rossant</dc:creator>
+      <dc:creator>Noam Roth</dc:creator>
+      <dc:creator>Rylan Schaeffer</dc:creator>
+      <dc:creator>Michael Schartner</dc:creator>
+      <dc:creator>Yanliang Shi</dc:creator>
+      <dc:creator>Karolina Z Socha</dc:creator>
+      <dc:creator>Nicholas A Steinmetz</dc:creator>
+      <dc:creator>Karel Svoboda</dc:creator>
+      <dc:creator>Anne E Urai</dc:creator>
+      <dc:creator>Miles J Wells</dc:creator>
+      <dc:creator>Steven J West</dc:creator>
+      <dc:creator>Matthew R Whiteway</dc:creator>
+      <dc:creator>Olivier Winter</dc:creator>
+      <dc:creator>Ilana B Witten</dc:creator>
+      <dc:date>2025-09-03</dc:date>
+    </item>
+    <item>
+      <title>Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance</title>
+      <link>https://arxiv.org/abs/2603.29010v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.29010v1</guid>
+      <pubDate>Mon, 09 Nov 2026 01:34:02 +0000</pubDate>
+      <dc:creator>Hari, Siva Kumar Sastry</dc:creator>
+      <dc:creator>Balaji, Vignesh</dc:creator>
+      <dc:creator>Damani, Sana</dc:creator>
+      <dc:creator>Huang, Qijing</dc:creator>
+      <dc:creator>Kozyrakis, Christos</dc:creator>
+      <dc:date>2026-03-30</dc:date>
+    </item>
+    <item>
       <title>How Reform Happens</title>
       <link>https://www.nber.org/papers/w35119</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w35119</guid>
