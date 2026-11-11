@@ -6,6 +6,40 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Competitive interactions shape mammalian brain network dynamics and computation.</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/41814091/</link>
+      <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/41814091/</guid>
+      <pubDate>Wed, 11 Nov 2026 10:53:57 +0000</pubDate>
+      <dc:creator>Andrea I Luppi</dc:creator>
+      <dc:creator>Yonatan Sanz Perl</dc:creator>
+      <dc:creator>Jakub Vohryzek</dc:creator>
+      <dc:creator>Hana Ali</dc:creator>
+      <dc:creator>Pedro A M Mediano</dc:creator>
+      <dc:creator>Fernando E Rosas</dc:creator>
+      <dc:creator>Filip Milisav</dc:creator>
+      <dc:creator>Laura E Suárez</dc:creator>
+      <dc:creator>Silvia Gini</dc:creator>
+      <dc:creator>Daniel Gutierrez-Barragan</dc:creator>
+      <dc:creator>Yohan Yee</dc:creator>
+      <dc:creator>Seán Froudist-Walsh</dc:creator>
+      <dc:creator>Alessandro Gozzi</dc:creator>
+      <dc:creator>Bratislav Misic</dc:creator>
+      <dc:creator>Gustavo Deco</dc:creator>
+      <dc:creator>Morten L Kringelbach</dc:creator>
+      <dc:date>2026-03-11</dc:date>
+    </item>
+    <item>
+      <title>Timelock Drive: Isolated {Time-Based} Defense for Storage Systems</title>
+      <link>https://www.usenix.org/conference/osdi26/presentation/rosenblum</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi26/presentation/rosenblum</guid>
+      <pubDate>Wed, 11 Nov 2026 10:53:56 +0000</pubDate>
+      <dc:creator>Jonah Rosenblum</dc:creator>
+      <dc:creator>Juechu Dong</dc:creator>
+      <dc:creator>Peter Chen</dc:creator>
+      <dc:creator>Satish Narayanasamy</dc:creator>
+      <dc:date>2026</dc:date>
+    </item>
+    <item>
       <title>Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025</title>
       <link>https://www.nber.org/papers/w35854</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w35854</guid>
