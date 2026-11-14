@@ -6,6 +6,34 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Parallel processing of past and future memories through reactivation and synaptic plasticity mechanisms during sleep</title>
+      <link>https://www.nature.com/articles/s41467-025-58860-w</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41467-025-58860-w</guid>
+      <pubDate>Sat, 14 Nov 2026 03:47:23 +0000</pubDate>
+      <dc:creator>Ghandour, Khaled</dc:creator>
+      <dc:creator>Haga, Tatsuya</dc:creator>
+      <dc:creator>Ohkawa, Noriaki</dc:creator>
+      <dc:creator>Fung, Chi Chung Alan</dc:creator>
+      <dc:creator>Nomoto, Masanori</dc:creator>
+      <dc:creator>Fayed, Mostafa R.</dc:creator>
+      <dc:creator>Asai, Hirotaka</dc:creator>
+      <dc:creator>Sato, Masaaki</dc:creator>
+      <dc:creator>Fukai, Tomoki</dc:creator>
+      <dc:creator>Inokuchi, Kaoru</dc:creator>
+      <dc:date>2025-04-28</dc:date>
+    </item>
+    <item>
+      <title>Tiered Memory Management Beyond Hotness</title>
+      <link>https://www.usenix.org/conference/osdi25/presentation/liu</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi25/presentation/liu</guid>
+      <pubDate>Sat, 14 Nov 2026 03:47:23 +0000</pubDate>
+      <dc:creator>Jinshu Liu</dc:creator>
+      <dc:creator>Hamid Hadian</dc:creator>
+      <dc:creator>Hanchen Xu</dc:creator>
+      <dc:creator>Huaicheng Li</dc:creator>
+      <dc:date>2025</dc:date>
+    </item>
+    <item>
       <title>Competitive interactions shape mammalian brain network dynamics and computation.</title>
       <link>https://pubmed.ncbi.nlm.nih.gov/41814091/</link>
       <guid isPermaLink="true">https://pubmed.ncbi.nlm.nih.gov/41814091/</guid>
