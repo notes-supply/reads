@@ -6,6 +6,30 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Target What? The Foundations of Poverty Targeting</title>
+      <link>https://www.nber.org/papers/w35984</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w35984</guid>
+      <pubDate>Mon, 16 Nov 2026 09:11:11 +0000</pubDate>
+      <dc:creator>Rema Hanna</dc:creator>
+      <dc:creator>Emily Breza</dc:creator>
+      <dc:creator>Benjamin A. Olken</dc:creator>
+      <dc:creator>Abhijit Banerjee</dc:creator>
+      <dc:creator>Arun G. Chandrasekhar</dc:creator>
+      <dc:creator>Gideon Moore</dc:creator>
+      <dc:date>2026-11-09</dc:date>
+    </item>
+    <item>
+      <title>T-CCL: Resource Efficient and Performant Collective Communication using Tensor Memory Accelerator</title>
+      <link>https://arxiv.org/abs/2610.07098v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.07098v1</guid>
+      <pubDate>Mon, 16 Nov 2026 09:11:11 +0000</pubDate>
+      <dc:creator>Dadashzadeh, Keyvan</dc:creator>
+      <dc:creator>Zhou, Yuehong</dc:creator>
+      <dc:creator>Cui, Minyu</dc:creator>
+      <dc:creator>Pericas, Miquel</dc:creator>
+      <dc:date>2026-10-05</dc:date>
+    </item>
+    <item>
       <title>Parallel processing of past and future memories through reactivation and synaptic plasticity mechanisms during sleep</title>
       <link>https://www.nature.com/articles/s41467-025-58860-w</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41467-025-58860-w</guid>
