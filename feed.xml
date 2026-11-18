@@ -6,6 +6,27 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Insuring Landlords</title>
+      <link>https://www.nber.org/papers/w35932</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w35932</guid>
+      <pubDate>Wed, 18 Nov 2026 21:37:40 +0000</pubDate>
+      <dc:creator>Thomas Bézy</dc:creator>
+      <dc:creator>Antoine B. Levy</dc:creator>
+      <dc:creator>Timothy McQuade</dc:creator>
+      <dc:date>2026-10-26</dc:date>
+    </item>
+    <item>
+      <title>Snitch: A tiny Pseudo Dual-Issue Processor for Area and Energy Efficient Execution of Floating-Point Intensive Workloads</title>
+      <link>https://arxiv.org/abs/2002.10143v2</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2002.10143v2</guid>
+      <pubDate>Wed, 18 Nov 2026 21:37:39 +0000</pubDate>
+      <dc:creator>Zaruba, Florian</dc:creator>
+      <dc:creator>Schuiki, Fabian</dc:creator>
+      <dc:creator>Hoefler, Torsten</dc:creator>
+      <dc:creator>Benini, Luca</dc:creator>
+      <dc:date>2020-02-24</dc:date>
+    </item>
+    <item>
       <title>Target What? The Foundations of Poverty Targeting</title>
       <link>https://www.nber.org/papers/w35984</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w35984</guid>
