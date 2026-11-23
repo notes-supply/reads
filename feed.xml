@@ -6,6 +6,29 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Railroads and American Economic Growth: A "Market Access" Approach</title>
+      <link>https://www.nber.org/papers/w19213</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w19213</guid>
+      <pubDate>Mon, 23 Nov 2026 20:31:35 +0000</pubDate>
+      <dc:creator>Dave Donaldson</dc:creator>
+      <dc:creator>Richard Hornbeck</dc:creator>
+      <dc:date>2013-07-11</dc:date>
+    </item>
+    <item>
+      <title>Fast and Synchronous Crash Consistency with Metadata {Write-Once} File System</title>
+      <link>https://www.usenix.org/conference/osdi25/presentation/pan</link>
+      <guid isPermaLink="true">https://www.usenix.org/conference/osdi25/presentation/pan</guid>
+      <pubDate>Mon, 23 Nov 2026 20:31:35 +0000</pubDate>
+      <dc:creator>Yanqi Pan</dc:creator>
+      <dc:creator>Wen Xia</dc:creator>
+      <dc:creator>Yifeng Zhang</dc:creator>
+      <dc:creator>Xiangyu Zou</dc:creator>
+      <dc:creator>Hao Huang</dc:creator>
+      <dc:creator>Zhenhua Li</dc:creator>
+      <dc:creator>Chentao Wu</dc:creator>
+      <dc:date>2025</dc:date>
+    </item>
+    <item>
       <title>Zoning: Externalities or Misallocation?</title>
       <link>https://www.nber.org/papers/w35455</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w35455</guid>
