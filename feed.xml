@@ -6,6 +6,27 @@
     <description>Reading history</description>
     <atom:link href="https://portfolio.notes.supply/reading.rss" rel="self" type="application/rss+xml" />
     <item>
+      <title>Transportation as a Barrier to Education Access: Evidence from Chicago Public Schools</title>
+      <link>https://www.nber.org/papers/w35915</link>
+      <guid isPermaLink="true">https://www.nber.org/papers/w35915</guid>
+      <pubDate>Thu, 26 Nov 2026 20:38:33 +0000</pubDate>
+      <dc:creator>Cecilia H. Moreira</dc:creator>
+      <dc:creator>Steven L. Puller</dc:creator>
+      <dc:creator>Ini Umosen</dc:creator>
+      <dc:date>2026-10-19</dc:date>
+    </item>
+    <item>
+      <title>Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code</title>
+      <link>https://arxiv.org/abs/1901.09056v3</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/1901.09056v3</guid>
+      <pubDate>Thu, 26 Nov 2026 20:38:33 +0000</pubDate>
+      <dc:creator>Jangda, Abhinav</dc:creator>
+      <dc:creator>Powers, Bobby</dc:creator>
+      <dc:creator>Berger, Emery</dc:creator>
+      <dc:creator>Guha, Arjun</dc:creator>
+      <dc:date>2019-01-25</dc:date>
+    </item>
+    <item>
       <title>Railroads and American Economic Growth: A "Market Access" Approach</title>
       <link>https://www.nber.org/papers/w19213</link>
       <guid isPermaLink="true">https://www.nber.org/papers/w19213</guid>
